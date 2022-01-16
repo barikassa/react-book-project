@@ -1,0 +1,16 @@
+
+.starInput {
+  display: none;
+  background-color: "red";
+}
+
+.starHover{
+  cursor: pointer;
+  transition: color 200ms;
+  background-color: red;
+}
+
+
+
+
+
